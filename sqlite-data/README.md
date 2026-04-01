@@ -19,18 +19,6 @@ Reviews, writes, and guides SQLiteData code covering the full stack:
 
 ## Installation
 
-### Claude Code
-
-```bash
-/install itisgriff/skills --skill sqlite-data
-```
-
-### OpenAI Codex CLI
-
-Copy or symlink `sqlite-data/` into `.agents/skills/` in your project or `~/.agents/skills/` globally.
-
-### Universal (via skills.sh)
-
 ```bash
 npx skills add itisgriff/skills --skill sqlite-data
 ```

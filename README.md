@@ -10,18 +10,6 @@ A collection of agent skills following the [agentskills.io](https://agentskills.
 
 ## Installation
 
-### Claude Code
-
-```bash
-/install itisgriff/skills --skill <skill-name>
-```
-
-### OpenAI Codex CLI
-
-Copy or symlink the skill directory into `.agents/skills/` in your project or `~/.agents/skills/` globally.
-
-### Universal (via skills.sh)
-
 ```bash
 npx skills add itisgriff/skills --skill <skill-name>
 ```
