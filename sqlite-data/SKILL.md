@@ -3,7 +3,7 @@ name: sqlite-data
 description: Reviews, writes, and guides SQLiteData code covering the full stack — property wrappers, StructuredQueries DSL, GRDB integration, and CloudKit sync. Use when reading, writing, or reviewing projects that use SQLiteData.
 license: MIT
 metadata:
-  author: Custom
+  author: itisgriff
   version: "1.0"
 ---
 
