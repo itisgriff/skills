@@ -1,6 +1,6 @@
 ---
 name: sqlite-data
-description: Reviews, writes, and guides SQLiteData code covering the full stack — property wrappers, StructuredQueries DSL, GRDB integration, and CloudKit sync. Use when reading, writing, or reviewing projects that use SQLiteData.
+description: Use this skill when the user is working with SQLiteData, StructuredQueries, or GRDB in a Swift project — including defining database models, writing queries, fetching data reactively, performing inserts/updates/deletes, setting up migrations, or configuring CloudKit synchronization and sharing. Also use when the user asks about Swift database patterns, reactive data observation, or SQLite-backed persistence, even if they don't mention SQLiteData by name.
 license: MIT
 metadata:
   author: itisgriff

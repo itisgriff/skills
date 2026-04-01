@@ -1,6 +1,6 @@
 interface:
   display_name: "SQLite Data"
-  short_description: "Reviews and guides SQLiteData code covering property wrappers, StructuredQueries DSL, GRDB integration, and CloudKit sync."
+  short_description: "Use when working with SQLiteData, StructuredQueries, or GRDB in Swift — database models, queries, reactive fetching, mutations, migrations, and CloudKit sync."
   brand_color: "#1A73E8"
   default_prompt: "Use $sqlite-data to review my project."
 
