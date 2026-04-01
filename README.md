@@ -4,9 +4,9 @@ A collection of agent skills following the [agentskills.io](https://agentskills.
 
 ## Available Skills
 
-| Skill | Description |
-|-------|-------------|
-| [sqlite-data](./sqlite-data) | Reviews, writes, and guides SQLiteData code — property wrappers, StructuredQueries DSL, GRDB integration, and CloudKit sync |
+| Skill | Description | Install |
+|-------|-------------|---------|
+| [sqlite-data](./sqlite-data) | SQLiteData — property wrappers, StructuredQueries DSL, GRDB, CloudKit sync | `npx skills add itisgriff/skills --skill sqlite-data` |
 
 ## Installation
 
