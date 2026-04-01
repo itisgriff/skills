@@ -1,0 +1,8 @@
+interface:
+  display_name: "SQLite Data"
+  short_description: "Reviews and guides SQLiteData code covering property wrappers, StructuredQueries DSL, GRDB integration, and CloudKit sync."
+  brand_color: "#1A73E8"
+  default_prompt: "Use $sqlite-data to review my project."
+
+policy:
+  allow_implicit_invocation: true
